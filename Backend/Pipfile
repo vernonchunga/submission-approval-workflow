@@ -13,6 +13,7 @@ pytest-django = "*"
 coverage = "*"
 drf-spectacular = "*"
 django-cors-headers = "*"
+gunicorn = "*"
 
 [dev-packages]
 
